@@ -1,7 +1,8 @@
 /*
 
 This file is taken from UAlbertaBot by David Churchill. See: https://code.google.com/p/ualbertabot/
-
+Modified August 2014.
+Distributed under GPL v3, see LICENSE for details.
 */
 
 #pragma once

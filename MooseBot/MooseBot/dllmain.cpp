@@ -1,5 +1,7 @@
 /*
-Code taken from ExampleAIModule in BWAPI
+Code taken from ExampleAIModule in BWAPI 3.7.4
+
+Distributed under GPL v3, see LICENSE for details.
 */
 
 #define WIN32_LEAN_AND_MEAN		// Exclude rarely-used stuff from Windows headers

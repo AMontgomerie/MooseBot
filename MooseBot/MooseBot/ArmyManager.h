@@ -1,3 +1,8 @@
+/*
+Source code by Adam Montgomerie. 
+Distributed under GPL v3, see LICENSE for details.
+*/
+
 #pragma once
 #include <BWAPI.h>
 #include <BWTA.h>

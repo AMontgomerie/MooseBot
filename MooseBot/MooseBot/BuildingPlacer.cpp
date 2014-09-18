@@ -1,4 +1,7 @@
 /*
+Source code by Adam Montgomerie. 
+Distributed under GPL v3, see LICENSE for details.
+
 Manager for finding locations for structures. placeBuilding takes a pointer to a worker (builder), 
 a structure type (building), and a starting TileLocation that the structure should be located near
 to (approxLocation).

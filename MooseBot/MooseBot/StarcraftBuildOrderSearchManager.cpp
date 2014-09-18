@@ -1,6 +1,7 @@
 /*
 
 This file is taken from UAlbertaBot by David Churchill. See: https://code.google.com/p/ualbertabot/
+Distributed under GPL v3, see LICENSE for details.
 
 */
 

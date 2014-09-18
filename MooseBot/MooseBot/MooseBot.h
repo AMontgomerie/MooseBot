@@ -1,3 +1,8 @@
+/*
+Source code by Adam Montgomerie. Modified from ExampleAIModule from BWAPI 3.7.4
+Distributed under GPL v3, see LICENSE for details.
+*/
+
 #pragma once
 
 #include <BWAPI.h>

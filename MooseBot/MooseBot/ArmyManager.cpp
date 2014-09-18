@@ -1,4 +1,8 @@
 /*
+
+Source code by Adam Montgomerie. 
+Distributed under GPL v3, see LICENSE for details.
+
 ArmyManager keeps track of all military units under the player's control.
 A pointer to each unit is stored in allArmy.
 From here, individual units can be accessed so that they can be given orders,

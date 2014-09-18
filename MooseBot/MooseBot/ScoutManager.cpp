@@ -1,4 +1,7 @@
 /*
+Source code by Adam Montgomerie.
+Distributed under GPL v3, see LICENSE for details.
+
 ScoutManager deals with scouting the opponent, managing scouting units and storing information about opponents.
 */
 

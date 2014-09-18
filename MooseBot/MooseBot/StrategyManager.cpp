@@ -1,8 +1,8 @@
 /*
 
 This file is based on StrategyManager.cpp from UAlbertaBot by David Churchill. See: https://code.google.com/p/ualbertabot/
-Modified August 2014
-
+Modified August 2014.
+Distributed under GPL v3, see LICENSE for details.
 */
 
 #include "Common.h"

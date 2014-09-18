@@ -1,8 +1,10 @@
+/*
+Source code by Adam Montgomerie.
+Distributed under GPL v3, see LICENSE for details.
+*/
+
 #include "WorkerManager.h"
 using namespace BWAPI;
-
-/*
-*/
 
 WorkerManager::WorkerManager()
 {
