@@ -20,4 +20,4 @@ Compiling from source code:
 - make sure platform toolset is set to v90
 - set to release mode
 - build the project
-- follow the instructions above for running the dll file that has been comiled
+- follow the instructions above for running the dll file that has been compiled
